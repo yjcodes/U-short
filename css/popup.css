@@ -1,0 +1,33 @@
+body {
+    font-family: arial,sans-serif;
+    background: #424242;
+    color: #fff;
+    min-width: 200px;
+    text-align: center;
+  }
+  a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 1.2em;
+  }
+  a:hover {
+    text-decoration: underline;
+  }
+
+  p {
+      color: rgb(255, 255, 255);
+      font-size: 25px;
+      font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+      font-weight: bold;
+  }
+
+  img {
+    width: 35px;
+    height: 35px;
+    float: left;
+  }
+
+  label {
+    font-size: medium;
+    font-weight: 700;
+  }
