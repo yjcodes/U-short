@@ -11,6 +11,6 @@ U-short is a browser extension supported by both Chrome and Edge browsers. It al
 
 # Developer
 Yuvansh Joshi  
-LinkedIn - https://linkedin.com/yuvansh-joshi-yj  
+LinkedIn - https://linkedin.com/in/yuvansh-joshi-yj  
 Instagram - https://instagram.com/yuvansh.joshi  
 Email - yuvansh101@gmail.com
